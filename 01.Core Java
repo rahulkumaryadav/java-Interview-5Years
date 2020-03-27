@@ -1,8 +1,25 @@
 
 1. if i will say to rate ur self out of 10 what will be rating in java ?
 2. which version of java using currently ?
+3. what is atomic variable ? what is use of atomic variable ?
+4. what is count downdown latch ?
+5.supose we are having class 
 
+Class Abc{
+public void m1(int , int y){
+};
+}
 
+class Demo{
+public static void main(String[] args){
+
+Abc abc1 = new Abc();
+
+Abc abc2 = new Abc();
+
+}
+}
+supose two thread are there t1 and t2 they are try to access method from object abc1 
 
 
 
